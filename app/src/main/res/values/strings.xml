@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Trailerman</string>
+    <string name="menu_movie">Movie</string>
+    <string name="menu_series">Series</string>
+    <string name="menu_actor">Actor</string>
+    <string name="transition_profile">transition_profile</string>
+</resources>
